@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🚀 Oii, eu sou a Ana Luiza!
 
-<!--
-**analuiza-mt/analuiza-mt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Dev em construção**  
+📚 Técnica em Informática | Estudante de Tecnologia  
+⚛️ Front-end em aprendizado, explorando o back-end  
+🚀 Aprendendo um commit por vez  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Sobre mim
+- 👩‍💻 Apaixonada por tecnologia e programação  
+- 📘 Sempre estudando e criando projetos para evoluir  
+- 💡 Curiosa, persistente e focada em aprender na prática  
+
+---
+
+## 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-20232A?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-20232A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-20232A?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/-Python-20232A?style=for-the-badge&logo=python)
+![Banco de Dados](https://img.shields.io/badge/-Banco_de_Dados-20232A?style=for-the-badge&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 LinkedIn: *(https://www.linkedin.com/in/ana-luiza-magalh%C3%A3es-teixeira-ba3473357/)*
+- 📧 Email: *ana.magalhaes765@gmail.com*
+
+---
+
+✨ *“Evoluindo um projeto de cada vez.”*
+
